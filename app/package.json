@@ -1,0 +1,24 @@
+{
+  "name": "personal-hub-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsiddharth/personal-hub.git"
+  },
+  "author": "Siddharth Dhulipalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsiddharth/personal-hub/issues"
+  },
+  "homepage": "https://github.com/dsiddharth/personal-hub#readme"
+}
